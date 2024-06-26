@@ -1,5 +1,4 @@
 {
-  "[ruby]": {
-    "editor.defaultFormatter": "rubocop.vscode-rubocop"
-  }
+  "rubyLsp.formatter": "rubocop"
+ 
 }
