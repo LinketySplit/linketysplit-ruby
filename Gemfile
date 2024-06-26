@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 gemspec
 
+gem "jwt", "~> 2.8.2"
 gem "minitest", "~> 5.11"
 gem "minitest-rg", "~> 5.3"
 gem "rake", "~> 13.0"
