@@ -27,4 +27,6 @@ Gem::Specification.new do |spec|
 
   # Runtime dependencies
   # spec.add_dependency "thor", "~> 1.2"
+  spec.add_dependency "jwt", "~> 2.8.2"
+  spec.add_dependency 'oga', '~> 3.4'
 end
